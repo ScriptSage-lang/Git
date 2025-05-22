@@ -1,2 +1,2 @@
 # Git
-Read ME
+ReadME
