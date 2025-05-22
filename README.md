@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/ankitwasankar/mftool-java">
-    <img src="https://raw.githubusercontent.com/ankitwasankar/mftool-java/master/src/main/resources/icons/mf-tool-java-new.jpg" alt="mftool-java">
+    <img src="https://raw.githubusercontent.com/ankitwasankar/mftool-java/master/src/main/resources/icons/mf-tool-java-new.jpg" alt="mftool-java"> 
   </a>  
 </h1> 
 <p align="center">  
