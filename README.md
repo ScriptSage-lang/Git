@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/ankitwasankar/mftool-java">
     <img src="https://raw.githubusercontent.com/ankitwasankar/mftool-java/master/src/main/resources/icons/mf-tool-java-new.jpg" alt="mftool-java">
-  </a>
+  </a> 
 </h1> 
 <p align="center"> 
 <a target="_blank" href="https://search.maven.org/artifact/com.webencyclop.core/mftool-java"><img src="https://img.shields.io/maven-central/v/com.webencyclop.core/mftool-java.svg?label=Maven%20Central"/></a> 
